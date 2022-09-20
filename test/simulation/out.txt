@@ -1,0 +1,5 @@
+test_led.c:13:test_led_setup:PASS
+
+-----------------------
+1 Tests 0 Failures 0 Ignored 
+OK
